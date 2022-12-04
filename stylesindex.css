@@ -42,18 +42,18 @@ p{
     background-color:rgb(236, 207, 169);  
     color: rgb(54, 39, 16)
 }
-.shadow-text {
-    text-shadow: gray 1px 1px;
-}
 
-#large-paragraph{
-    font-size: 30px;
-}
 img{
     border-style:dashed;
     border-color:darkolivegreen ;
     border-radius:1000px;
 }
+
+li:hover {
+    background-color:white;
+    width:150px;
+       }
+
 
 /* border-style:double;
 border-color:darkolivegreen ;

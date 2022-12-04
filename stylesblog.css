@@ -14,8 +14,6 @@ body{
 /* body {
     background-color:rgb(236, 207, 169); */
   
-
-
 h1{
     color: rgb(54, 39, 16)
 }
@@ -31,10 +29,23 @@ p{
     background-color:rgb(236, 207, 169); 
 }
 
-
-
 img{
     border-style:dashed;
     border-color:darkolivegreen ;
     border-radius:1000px;
+}
+
+li:hover {
+    background-color:white;
+    width:150px;
+       }
+
+#logt{
+    font-family: 'Trebuchet MS';
+    text-shadow: 3px 3px #f7f7f7;
+}
+
+p.logs{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 1px 1px #f7f7f7;
 }
