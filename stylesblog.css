@@ -1,0 +1,40 @@
+/* Blog CSS */
+
+body{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(
+        to top,
+      rgb(236, 207, 169) 0%,
+      rgb(236, 207, 169) 50%,
+      darkolivegreen 50%,
+      darkolivegreen 100%
+    );
+  } 
+/* body {
+    background-color:rgb(236, 207, 169); */
+  
+
+
+h1{
+    color: rgb(54, 39, 16)
+}
+
+div{
+    background-color:rgb(236, 207, 169);
+    border-style:dashed;
+    border-color:darkolivegreen ;
+    border-radius:8px;
+}
+
+p{
+    background-color:rgb(236, 207, 169); 
+}
+
+
+
+img{
+    border-style:dashed;
+    border-color:darkolivegreen ;
+    border-radius:1000px;
+}

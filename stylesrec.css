@@ -1,0 +1,30 @@
+/* CSS Portion */
+body {
+    background-color:rgb(236, 207, 169);
+}
+/* Idea: Create split backround with two different shades of brown usng container instead of div  */
+
+h1{
+    color: rgb(54, 39, 16)
+}
+
+div{
+    background-color:rgb(236, 207, 169);
+    border-style:dashed;
+    border-color:darkolivegreen ;
+    border-radius:8px;
+}
+
+p{
+    background-color:rgb(236, 207, 169);  
+}
+.shadow-text{
+    text-shadow: rgb(83, 22, 22) 1px 1px;
+}
+
+
+img{
+    border-style:dashed;
+    border-color:darkolivegreen ;
+    border-radius:1000px;
+}
